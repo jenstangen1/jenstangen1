@@ -7,7 +7,14 @@ I'm an M&A analyst combining traditional finance with technical tools to uncover
 
 ---
 
-## 🔍 Projects
+## 🔍 Active projects
+
+### 🧾 MCP for PowerPoint (WIP)
+Integrates Anthropic’s Model Context Protocol (MCP) into PowerPoint workflows.  
+**Goal:** Let LLMs generate relevant slide content based on structured context.  
+🛠️ 80% finished - refining key functions to be accurate
+
+## 🔍 Finished projects
 
 ### 🧠 Boardroom Background Scanner
 Scrapes LinkedIn profiles of board members across Norwegian companies to detect M&A experience.  
@@ -17,11 +24,6 @@ Scrapes LinkedIn profiles of board members across Norwegian companies to detect 
 ### 📈 Shareholder Age Analyzer
 Pulls shareholder data from the Proff API to calculate **weighted average shareholder age**.  
 **Goal:** Identify aging ownership structures that might signal openness to selling.
-
-### 🧾 MCP for PowerPoint (WIP)
-Integrates Anthropic’s Model Context Protocol (MCP) into PowerPoint workflows.  
-**Goal:** Let LLMs generate relevant slide content based on structured context.  
-🛠️ 80% finished - refining key functions to be accurate
 
 ### 📨 Outlook AI Mail Agent
 Automates marketing-style outreach emails using the OpenAI API, designed to work within Norwegian GDPR regulations.  
